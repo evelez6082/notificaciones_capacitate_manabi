@@ -1,0 +1,16 @@
+# Entorno y secretos
+.env
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS
+.DS_Store
+
+# Datos dinámicos y privacidad (ajusta si alguna carpeta sí lleva archivos base)
+historial/
+informes/
+listados/

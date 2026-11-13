@@ -1,0 +1,28 @@
+¡Bienvenido/a, __NOMBRE__!
+
+Tu acceso a la Escuela de Formación Ciudadana y Liderazgo Territorial ya está
+listo. Te invitamos a ingresar y comenzar tu curso cuando gustes.
+
+TUS DATOS DE ACCESO:
+  Usuario: __USUARIO__
+  Contraseña temporal: __PASSWORD__
+
+Por seguridad, recuerda cambiar tu contraseña en tu primer ingreso a la
+plataforma.
+
+Ingresa aquí:
+https://avmoodle.manabi.gob.ec/login/index.php
+
+Si tiene inconvenientes técnicos para acceder a la plataforma, contáctenos a
+través de:
+  Correo: escuelas.virtual@manabi.gob.ec
+  WhatsApp: https://wa.me/593978696111
+
+¡Te deseamos muchos éxitos!
+Equipo Capacítate Manabí
+Prefectura de Manabí
+
+---
+Este es un mensaje informativo enviado por la Prefectura de Manabí en el marco
+del programa Capacítate Manabí. Si considera que lo recibió por error, puede
+comunicarse a escuelas.virtual@manabi.gob.ec.

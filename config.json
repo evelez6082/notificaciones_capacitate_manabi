@@ -1,0 +1,54 @@
+{
+  "defaults": {
+    "sender": "Capacítate Manabí <capacitatemanabi@cacicustech.com>",
+    "region": "us-east-1",
+    "rate": 3.0,
+    "test_email": "josue.vlez@gmail.com",
+    "test_whatsapp": "+593993096923",
+    "listado": "listados/consolidado_nuevos_estudiantes.xlsx"
+  },
+  "campanias": {
+    "bienvenida": {
+      "descripcion": "Bienvenida + credenciales de acceso (usuario y contraseña temporal)",
+      "asunto": "¡Tu acceso ha sido activado! — Curso de Liderazgo Territorial",
+      "plantilla": "bienvenida",
+      "canales": ["email", "whatsapp"],
+      "wa_template": "bienvenido_al_curso_tu_usuario_ha_sido_activado_hx380221c39c837b641073287626de0cac",
+      "wa_language": "es",
+      "wa_image_url": "https://cacicustech.com/capacitate_manabi/assets/694253231_1507359494090065_18027970677343898_n.jpg",
+      "wa_body_params": null
+    },
+    "recordatorio": {
+      "descripcion": "Recordatorio / invitación a finalizar la evaluación",
+      "asunto": "Invitación a finalizar tu evaluación — Curso de Liderazgo Territorial",
+      "plantilla": "recordatorio",
+      "canales": ["email", "whatsapp"],
+      "wa_template": "retoma_el_curso_hx2b6e1d0f14afc842c27f78ae79958534",
+      "wa_language": "es_MX",
+      "wa_image_url": null,
+      "wa_body_params": null
+    },
+    "mantenimiento": {
+      "descripcion": "Aviso de mantenimiento de la plataforma Moodle (actualización de PHP)",
+      "asunto": "Comunicado oficial: Mantenimiento de la plataforma virtual Moodle",
+      "plantilla": "mantenimiento",
+      "listado": "listados/Participantes_en_Proceso_curso.csv",
+      "canales": ["email"],
+      "wa_template": null,
+      "wa_language": "es",
+      "wa_image_url": null,
+      "wa_body_params": null
+    },
+    "reactivacion": {
+      "descripcion": "Plataforma Moodle nuevamente disponible + invitación a retomar el curso",
+      "asunto": "¡Buenas noticias! La plataforma Moodle ya está disponible — Curso de Liderazgo Territorial",
+      "plantilla": "reactivacion",
+      "listado": "listados/Participantes_en_Proceso_curso_con_telefonos.csv",
+      "canales": ["email", "whatsapp"],
+      "wa_template": "sistema_de_vuelta",
+      "wa_language": "es_EC",
+      "wa_image_url": "https://cacicustech.com/capacitate_manabi/assets/694253231_1507359494090065_18027970677343898_n.jpg",
+      "wa_body_params": null
+    }
+  }
+}

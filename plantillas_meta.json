@@ -1,0 +1,420 @@
+{
+  "sistema_de_vuelta": [
+    {
+      "id": "2227868991409595",
+      "language": "es_EC",
+      "status": "APPROVED",
+      "category": "UTILITY",
+      "quality_score": {
+        "score": "UNKNOWN",
+        "date": 1793215491
+      },
+      "components": [
+        {
+          "type": "HEADER",
+          "format": "IMAGE",
+          "example": {
+            "header_handle": [
+              "https://scontent.whatsapp.net/v/t61.29466-34/686880344_2227868994742928_781811252351682109_n.jpg?ccb=1-7&_nc_sid=8b1bef&_nc_ohc=0VREjqRIx5EQ7kNvwHOgSwO&_nc_oc=AdrBakLMAv3K6pw90aiWMR_Tyts0smnvkL2ugxNt4Wo-EfKEnVXO-5WiZVUb2kV9nLE1EtMsbo_dvJDyTSZ8jbdr&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=NiiLbguqzKTTaEdYdMop0A&_nc_tpa=Q5bMBQK2Huh4MxIyI5VX_hGAOjoULhHS2H_Y2LOjbR4V8jmAa1HHcm_9wWx2LU0tlfKqN0v2sjoufOb6gA&oh=01_Q5Aa5wE_pKtJdAzKfw7buO5sz9_y16qXjT46ohYN9z5ecGcDxA&oe=6B09BC2D"
+            ]
+          }
+        },
+        {
+          "type": "BODY",
+          "text": "Estimado/a participante, le informamos que la plataforma Moodle del Curso de Formación Ciudadana y Liderazgo Territorial, se encuentra nuevamente 100% operativa y habilitada para continuar con sus actividades de formación.   \n\nLe invitamos a ingresar y retomar sus módulos de aprendizaje con normalidad.\n\nPrefectura de Manabí"
+        },
+        {
+          "type": "BUTTONS",
+          "buttons": [
+            {
+              "type": "URL",
+              "text": "Ingresar",
+              "url": "https://avmoodle.manabi.gob.ec/login/index.php"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "bienvenido_al_curso_tu_usuario_ha_sido_activado_hx380221c39c837b641073287626de0cac": [
+    {
+      "id": "1332187778870267",
+      "language": "es",
+      "status": "APPROVED",
+      "category": "UTILITY",
+      "quality_score": {
+        "score": "UNKNOWN",
+        "date": 1793215491
+      },
+      "components": [
+        {
+          "type": "HEADER",
+          "format": "IMAGE",
+          "example": {
+            "header_handle": [
+              "https://scontent.whatsapp.net/v/t61.29466-34/637184022_1395133665909011_3555522864390255705_n.jpg?ccb=1-7&_nc_sid=8b1bef&_nc_ohc=EE4oX4gEUGMQ7kNvwF52wv8&_nc_oc=AdrCfKXYMXVb4s2XiLo7hjAWpN0H5ZNGExLwzFzjO1Hly7NYV1uNH8PZ2bAGxldL45kmOXSvCJoovoNQs5DtS-ju&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=NiiLbguqzKTTaEdYdMop0A&_nc_tpa=Q5bMBQK1Fj1W9NghBcLBp0GYy-O-PWtIsYvsdH04iffdp5Ajyk9Fxq6EL57vN0o5dcRWpz3TSVbuzG6dFA&oh=01_Q5Aa5wH5KXI_h7_Be3XK81iaQyuUuhVWFStv7WT3_fN90IP8Gg&oe=6B09B096"
+            ]
+          }
+        },
+        {
+          "type": "BODY",
+          "text": "✅ Usuario activado correctamente\n\nEstimado(a) participante: {{}}\n\nLe informamos que su acceso a la Escuela de Formación Ciudadana y Liderazgo Territorial ha sido habilitado exitosamente.\n\n📚 A través de esta plataforma podrá acceder al curso en que se inscribió. \n\n📧 Revise su correo electrónico para consultar sus credenciales e instrucciones de acceso. (En caso de que desee consultar alguna información escríbanos al número 097 869 6111.)\n\nPrefectura de Manabí\nManabí cambia para siempre."
+        }
+      ]
+    }
+  ],
+  "copy_of_confirmacion_recibir_diploma_hx78b8898f5f662260eb54c3ef82214c7e": [
+    {
+      "id": "1766339364533336",
+      "language": "es",
+      "status": "APPROVED",
+      "category": "UTILITY",
+      "quality_score": {
+        "score": "UNKNOWN",
+        "date": 1793215491
+      },
+      "components": [
+        {
+          "type": "HEADER",
+          "format": "IMAGE",
+          "example": {
+            "header_handle": [
+              "https://scontent.whatsapp.net/v/t61.29466-34/672628670_1822696982230907_2673298285519791278_n.jpg?ccb=1-7&_nc_sid=8b1bef&_nc_ohc=DRs-GVqDamoQ7kNvwGyfcGg&_nc_oc=AdoRbsqdvFueSK0_d8XA5tnZLakOf2rPhFpC2_7vUSdnfNHb0LrQfMg5kTQubE0Fz8CidHs46f_IqnKLK3pz2X07&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=NiiLbguqzKTTaEdYdMop0A&_nc_tpa=Q5bMBQJBI6zlRiXC9uWuUDGpB3gHYZqGv2kizgzpF1Mx6pYFIsoNQmsaeFYE5Ef_OFX8jAKW6QKWyeY8-A&oh=01_Q5Aa5wEzb45Qt5YpO-wZqbG52bkh1-GWZsQi49ivza7DgSjNBQ&oe=6B09A4E4"
+            ]
+          }
+        },
+        {
+          "type": "BODY",
+          "text": "Para más información escríbenos al 593-99-309-6923.\n\nConfirme la recepción de su certificado haciendo clic en el botón de abajo. 👇"
+        },
+        {
+          "type": "BUTTONS",
+          "buttons": [
+            {
+              "type": "URL",
+              "text": "Confirmar",
+              "url": "https://forms.gle/zfFn1u2vtARGFna39{{1}}",
+              "example": [
+                "https://forms.gle/zfFn1u2vtARGFna39"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "copy_of_encuesta_evaluacion_satisfaccion_curso_hxfb519971e2a94b8577aa96dbc82f640a": [
+    {
+      "id": "4400983520216650",
+      "language": "es",
+      "status": "APPROVED",
+      "category": "MARKETING",
+      "quality_score": {
+        "score": "UNKNOWN",
+        "date": 1793215491
+      },
+      "components": [
+        {
+          "type": "BODY",
+          "text": "Hola, {{1}} 👋\n\nGracias por haber participado en el curso Liderazgo y Participación Ciudadana.\n\nTu opinión es muy importante para nosotros. Te invitamos a completar una breve encuesta de evaluación y satisfacción, que nos permitirá conocer tu experiencia y continuar mejorando nuestros procesos de formación.\n\n⏱️ Completarla te tomará pocos minutos.\n\nPresiona el botón para responder la encuesta. 👇\n\n¡Gracias por tu participación y por ayudarnos a seguir mejorando!\n\nEscuela de Formación Ciudadana y Liderazgo Territorial\nPrefectura de Manabí",
+          "example": {
+            "body_text": [
+              [
+                "Elvis Josué Vélez Hidalgo"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "BUTTONS",
+          "buttons": [
+            {
+              "type": "URL",
+              "text": "Responder encuesta",
+              "url": "https://forms.gle/J276bN7NbizxrXHo6",
+              "example": [
+                "https://forms.gle/J276bN7NbizxrXHo6"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "encuesta_evaluacion_satisfaccion_curso_hx0988cef75c4e41b3ae84a5fe2a03fcd8": [
+    {
+      "id": "1411640414154670",
+      "language": "es",
+      "status": "APPROVED",
+      "category": "UTILITY",
+      "quality_score": {
+        "score": "UNKNOWN",
+        "date": 1785878145
+      },
+      "components": [
+        {
+          "type": "BODY",
+          "text": "Hola, {{1}} 👋\n\nGracias por haber participado en el curso Liderazgo y Participación Ciudadana.\n\nTu opinión es muy importante para nosotros. Te invitamos a completar una breve encuesta de evaluación y satisfacción, que nos permitirá conocer tu experiencia y continuar mejorando nuestros procesos de formación.\n\n⏱️ Completarla te tomará pocos minutos.\n\nPresiona el botón para responder la encuesta. 👇\n\n¡Gracias por tu participación y por ayudarnos a seguir mejorando!\n\nEscuela de Formación Ciudadana y Liderazgo Territorial\nPrefectura de Manabí",
+          "example": {
+            "body_text": [
+              [
+                "Elvis Josué Vélez Hidalgo"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "BUTTONS",
+          "buttons": [
+            {
+              "type": "URL",
+              "text": "Responder encuesta",
+              "url": "https://forms.gle/J276bN7NbizxrXHo6",
+              "example": [
+                "https://forms.gle/J276bN7NbizxrXHo6"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "video_tutorial_como_ingresar_hx14764eb48e5db34860be21afaec46e05": [
+    {
+      "id": "947977558142521",
+      "language": "es",
+      "status": "APPROVED",
+      "category": "UTILITY",
+      "quality_score": {
+        "score": "UNKNOWN",
+        "date": 1793215491
+      },
+      "components": [
+        {
+          "type": "HEADER",
+          "format": "VIDEO",
+          "example": {
+            "header_handle": [
+              "https://scontent.whatsapp.net/v/t61.29466-34/533571899_947977561475854_4805210496888281679_n.mp4?ccb=1-7&_nc_sid=8b1bef&_nc_ohc=Ms_WsclDNmwQ7kNvwEOGi4o&_nc_oc=AdrFcMZT3-TDw1HWkB2ymWbDUs909wO6-wEKVWkdal1zb8wl3senuZvVDkHBMFvW4HszpdD_eQ7kFZe5274IdOhf&_nc_zt=28&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=NiiLbguqzKTTaEdYdMop0A&_nc_tpa=Q5bMBQLjvIMhmQ-PHui7XOjuELqUkI-gvV5ux8M6EgK44_fvEEjvMdbZ2qVpdHcNTWCWyMj1lJag47wITA&oh=01_Q5Aa5wHYbVvPuq14DF_h4DqT96n83J3-EAU_96OXfutIei6VDA&oe=6B09B6C1"
+            ]
+          }
+        },
+        {
+          "type": "BODY",
+          "text": "¿Cómo acceder al curso y la plataforma desde el teléfono?\n\nNo lo olvides, si estás accediendo por primera vez, tu usuario y contraseña serán tu número de cédula."
+        }
+      ]
+    }
+  ],
+  "retoma_el_curso_hx2b6e1d0f14afc842c27f78ae79958534": [
+    {
+      "id": "999144146109391",
+      "language": "es_MX",
+      "status": "APPROVED",
+      "category": "UTILITY",
+      "quality_score": {
+        "score": "UNKNOWN",
+        "date": 1793215491
+      },
+      "components": [
+        {
+          "type": "BODY",
+          "text": "Te escribimos desde la Escuela de Formación Ciudadana de la Prefectura de Manabí.\n\nSi deseas continuar el curso “Liderazgo y Participación Ciudadana para la Gestión Local – Modalidad Virtual” \n¡Puedes hacerlo hoy mismo!\n\nSolo dale click al botón de \"Ingresar al curso\", luego ingresa tu usuario y contraseña y listo. \n\n🔐 Recuerda que si estás ingresando por primera vez, tu Usuario y tu Contraseña, son tu mismo número de cédula.\n\nTe esperamos.\n\n👉 Si necesitas ayuda, escríbenos directamente por WhatsApp:\n📱 +593995212193"
+        },
+        {
+          "type": "BUTTONS",
+          "buttons": [
+            {
+              "type": "URL",
+              "text": "Ingresar al curso",
+              "url": "https://avmoodle.manabi.gob.ec/login/index.php",
+              "example": [
+                "https://avmoodle.manabi.gob.ec/login/index.php"
+              ]
+            },
+            {
+              "type": "URL",
+              "text": "Más información",
+              "url": "https://www.manabi.gob.ec/index.php/direccion-de-participacion-ciudadana/",
+              "example": [
+                "https://www.manabi.gob.ec/index.php/direccion-de-participacion-ciudadana/"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "copy_volver_al_curso_este_2026_con_imagen_hxe01222d18712ca4e9ba7947d74797d99": [
+    {
+      "id": "2085789498643210",
+      "language": "es",
+      "status": "APPROVED",
+      "category": "UTILITY",
+      "quality_score": {
+        "score": "UNKNOWN",
+        "date": 1793215491
+      },
+      "components": [
+        {
+          "type": "HEADER",
+          "format": "IMAGE",
+          "example": {
+            "header_handle": [
+              "https://scontent.whatsapp.net/v/t61.29466-34/643138198_2085789501976543_2607033555183906146_n.png?ccb=1-7&_nc_sid=8b1bef&_nc_ohc=9gnjEEvbuNwQ7kNvwGwmRhI&_nc_oc=AdrwZuRo9Av83oE0Pkq2zHmL0TT3Kyvf8DGeCxPOHAUJco8YFfkTUiPw2ckiUGLf-i9Limt6br0jlv1hI7-Nl9FP&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=NiiLbguqzKTTaEdYdMop0A&_nc_tpa=Q5bMBQIuYXtC9Ywb6VlK9bRrJi3MzI_pzxaFCrfi_uJuxZ-tEXPjdxgfGPVrBlgUVrBOudpZnVjazujyqQ&oh=01_Q5Aa5wFDnTkeF_3sRvTNULP-dBPOCS7gJjv764sbarDTNY6Naw&oe=6B09D1C3"
+            ]
+          }
+        },
+        {
+          "type": "BODY",
+          "text": "¡Hola {{1}}!  👋 Tu camino en el curso de Liderazgo y Participación Ciudadana aún te espera. No es solo un curso, es la herramienta para que tu voz y tus proyectos dejen huella en tu comunidad.\n\n¡El momento de liderar es ahora! 🚀",
+          "example": {
+            "body_text": [
+              [
+                "Elvis Josué Vélez Hidalgo"
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "volver_al_curso_2026_001_hx31b926418317d16afa24b69945bc2f43": [
+    {
+      "id": "2213654819042235",
+      "language": "es_MX",
+      "status": "APPROVED",
+      "category": "MARKETING",
+      "quality_score": {
+        "score": "UNKNOWN",
+        "date": 1793215491
+      },
+      "components": [
+        {
+          "type": "BODY",
+          "text": "Hola {{1}} 👋\n\nTe escribimos desde la Escuela de Formación Ciudadana de la Prefectura de Manabí.\n\nSabemos que te matriculaste en el curso: \n    📘 “Liderazgo y Participación Ciudadana para la Gestión Local – Modalidad Virtual”\n\n✨ Aunque ha pasado un tiempo, queremos decirte que Aún puedes ingresar y completar tu proceso de formación.\n\nNunca es tarde para dar este paso.\n\nTe invitamos a ingresar hoy y comenzar tu camino como líder en tu comunidad.\n\n🔐 Recuerda que si estás ingresando por primera vez, tu Usuario y tu Contraseña, son tu número de cédula.\n\nTe esperamos.\n\n👉 Si necesitas ayuda, escríbenos directamente por WhatsApp:\n📱 +593995212193\n\nEste mensaje ha sido enviado mediante los servicios de comunicación automatizada de CacicusTech. Por favor, no responder a este número.",
+          "example": {
+            "body_text": [
+              [
+                "Elvis Josué Vélez Hidalgo"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "BUTTONS",
+          "buttons": [
+            {
+              "type": "URL",
+              "text": "Ingresar al curso",
+              "url": "https://avmoodle.manabi.gob.ec/login/index.php",
+              "example": [
+                "https://avmoodle.manabi.gob.ec/login/index.php"
+              ]
+            },
+            {
+              "type": "URL",
+              "text": "Más información",
+              "url": "https://www.manabi.gob.ec/index.php/direccion-de-participacion-ciudadana/",
+              "example": [
+                "https://www.manabi.gob.ec/index.php/direccion-de-participacion-ciudadana/"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "copy_reactivacion_inicio_curso_hx85243f432a2d943483e200801219390a": [
+    {
+      "id": "1733054957664370",
+      "language": "es_MX",
+      "status": "APPROVED",
+      "category": "MARKETING",
+      "quality_score": {
+        "score": "UNKNOWN",
+        "date": 1793215491
+      },
+      "components": [
+        {
+          "type": "BODY",
+          "text": "Hola {{1}} 👋\n\nTe escribimos desde la Escuela de Formación Ciudadana de la Prefectura de Manabí.\n\nSabemos que te matriculaste en el curso: \n    📘 “Liderazgo y Participación Ciudadana para la Gestión Local – Modalidad Virtual”\n\n✨ Aunque ha pasado un tiempo, queremos decirte que Aún puedes ingresar y completar tu proceso de formación.\n\nNunca es tarde para dar este paso.\n\nTe invitamos a ingresar hoy y comenzar tu camino como líder en tu comunidad.\n\n🔐 Recuerda que si estás ingresando por primera vez, tu Usuario y tu Contraseña, son tu número de cédula.\n\nTe esperamos.\n\nEste mensaje ha sido enviado mediante los servicios de comunicación automatizada de CacicusTech. Por favor, no responder a este número.",
+          "example": {
+            "body_text": [
+              [
+                "Elvis Josué Vélez Hidalgo"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "BUTTONS",
+          "buttons": [
+            {
+              "type": "URL",
+              "text": "Ingresar al curso",
+              "url": "https://avmoodle.manabi.gob.ec/login/index.php",
+              "example": [
+                "https://avmoodle.manabi.gob.ec/login/index.php"
+              ]
+            },
+            {
+              "type": "URL",
+              "text": "Más información",
+              "url": "https://www.manabi.gob.ec/index.php/direccion-de-participacion-ciudadana/",
+              "example": [
+                "https://www.manabi.gob.ec/index.php/direccion-de-participacion-ciudadana/"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "recordatorio_finalizacion_curso_2026_hx18677e4448f28778948bd3ce4a2cd71b": [
+    {
+      "id": "928640120081147",
+      "language": "es_MX",
+      "status": "APPROVED",
+      "category": "MARKETING",
+      "quality_score": {
+        "score": "UNKNOWN",
+        "date": 1793215491
+      },
+      "components": [
+        {
+          "type": "BODY",
+          "text": "Hola {{1}} 👋\n\nTe escribimos desde la Escuela de Formación Ciudadana de la Prefectura de Manabí.\n\nHemos identificado que estás muy cerca de finalizar el curso: “Liderazgo y Participación Ciudadana para la Gestión Local – Modalidad Virtual”\n\n🎓 No te quedes sin tu certificado avalado por la UTM. \n\n⏳ Aún estás a tiempo, Ingresa y culmina tu proceso esta semana.\n\n🔐 Datos de acceso:\nUsuario: número de cédula\nContraseña: número de cédula\n\n📞 Si tienes alguna duda escríbenos al correo: \n📧 escuela.virtual@manabi.gob.ec\nWhatsApp: 0982104735\n\nEste es un mensaje automático enviado a través de los servicios de comunicación de CacicusTech. Por favor, no responder a este mensaje.",
+          "example": {
+            "body_text": [
+              [
+                "Elvis Josué Vélez Hidalgo"
+              ]
+            ]
+          }
+        },
+        {
+          "type": "BUTTONS",
+          "buttons": [
+            {
+              "type": "URL",
+              "text": "Ingresar al curso",
+              "url": "https://avmoodle.manabi.gob.ec/login/index.php",
+              "example": [
+                "https://avmoodle.manabi.gob.ec/login/index.php"
+              ]
+            },
+            {
+              "type": "URL",
+              "text": "Más información",
+              "url": "https://www.manabi.gob.ec/index.php/direccion-de-participacion-ciudadana/",
+              "example": [
+                "https://www.manabi.gob.ec/index.php/direccion-de-participacion-ciudadana/"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
